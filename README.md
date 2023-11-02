@@ -3,4 +3,4 @@ Data engineering - data streaming pipeline - real time - AWS Lambda, DMS, Kinesi
 
 
 ### Architecture
-![Logo](https://github.com/jamilvilela/aws-sentiment-analysis/blob/master/2023-10-30-AWS-datawarehouse-Architecture.png)
+![Logo](https://github.com/jamilvilela/aws-sentiment-analysis/blob/master/AWS-datawarehouse-Architecture.png)
